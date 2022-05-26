@@ -10,7 +10,9 @@
 
 ## POST API 
 **URL**:  http://localhost:9091/api/
-** EXAMPLE JSON DATA** : `"centerName": "Center 1",
+** EXAMPLE JSON DATA** :
+
+`"centerName": "Center 1",
     "address":{
         "fullAddress":"5/2, 5/2,krrdblr-82, Obalappa Garden, K R Road",
         "city":"Bangalore",
@@ -24,6 +26,7 @@
     "contactPhone":9283456783
 }
 `
+
 
 ## GET API 
 **URL**:  http://localhost:9091/api/ *[TO GET LIST OF ALL TRAINING CENTERS]*
