@@ -11,6 +11,7 @@
 
 ## POST API 
 **URL**:  http://localhost:9091/api/
+
 **EXAMPLE JSON DATA** :
 
 `"centerName": "Center 1",
