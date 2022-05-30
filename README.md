@@ -33,7 +33,7 @@
 ## GET API 
 **URL**:  http://localhost:9091/api/ *[TO GET LIST OF ALL TRAINING CENTERS]*
 
-**URL**:  http://localhost:9091/api/<centerCode> *[TO GET CENTER BY CODE]*
+**URL**:  http://localhost:9091/api/<CENTER_CODE> *[TO GET CENTER BY CODE]*
 
 
 
